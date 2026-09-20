@@ -1,0 +1,2510 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "background.js",
+      "file_type": "code",
+      "source_file": "background.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "background",
+      "community": 12,
+      "norm_label": "background.js"
+    },
+    {
+      "label": "navigateAndStart()",
+      "file_type": "code",
+      "source_file": "background.js",
+      "source_location": "L40",
+      "_origin": "ast",
+      "id": "background_navigateandstart",
+      "community": 12,
+      "norm_label": "navigateandstart()"
+    },
+    {
+      "label": "content.js",
+      "file_type": "code",
+      "source_file": "content.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "content",
+      "community": 10,
+      "norm_label": "content.js"
+    },
+    {
+      "label": "startClearing()",
+      "file_type": "code",
+      "source_file": "content.js",
+      "source_location": "L44",
+      "_origin": "ast",
+      "id": "content_startclearing",
+      "community": 10,
+      "norm_label": "startclearing()"
+    },
+    {
+      "label": "sendStatus()",
+      "file_type": "code",
+      "source_file": "content.js",
+      "source_location": "L95",
+      "_origin": "ast",
+      "id": "content_sendstatus",
+      "community": 10,
+      "norm_label": "sendstatus()"
+    },
+    {
+      "label": "sleep()",
+      "file_type": "code",
+      "source_file": "content.js",
+      "source_location": "L101",
+      "_origin": "ast",
+      "id": "content_sleep",
+      "community": 10,
+      "norm_label": "sleep()"
+    },
+    {
+      "label": "logger.js",
+      "file_type": "code",
+      "source_file": "logger.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "logger",
+      "community": 10,
+      "norm_label": "logger.js"
+    },
+    {
+      "label": "log()",
+      "file_type": "code",
+      "source_file": "logger.js",
+      "source_location": "L32",
+      "_origin": "ast",
+      "id": "logger_log",
+      "community": 10,
+      "norm_label": "log()"
+    },
+    {
+      "label": "warn()",
+      "file_type": "code",
+      "source_file": "logger.js",
+      "source_location": "L40",
+      "_origin": "ast",
+      "id": "logger_warn",
+      "community": 10,
+      "norm_label": "warn()"
+    },
+    {
+      "label": "manifest.json",
+      "file_type": "code",
+      "source_file": "manifest.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "manifest",
+      "community": 3,
+      "norm_label": "manifest.json"
+    },
+    {
+      "label": "manifest_version",
+      "file_type": "code",
+      "source_file": "manifest.json",
+      "source_location": "L2",
+      "_origin": "ast",
+      "id": "manifest_manifest_version",
+      "community": 3,
+      "norm_label": "manifest_version"
+    },
+    {
+      "label": "name",
+      "file_type": "code",
+      "source_file": "manifest.json",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "manifest_name",
+      "community": 3,
+      "norm_label": "name"
+    },
+    {
+      "label": "version",
+      "file_type": "code",
+      "source_file": "manifest.json",
+      "source_location": "L4",
+      "_origin": "ast",
+      "id": "manifest_version",
+      "community": 3,
+      "norm_label": "version"
+    },
+    {
+      "label": "description",
+      "file_type": "code",
+      "source_file": "manifest.json",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "manifest_description",
+      "community": 3,
+      "norm_label": "description"
+    },
+    {
+      "label": "permissions",
+      "file_type": "code",
+      "source_file": "manifest.json",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "manifest_permissions",
+      "community": 3,
+      "norm_label": "permissions"
+    },
+    {
+      "label": "host_permissions",
+      "file_type": "code",
+      "source_file": "manifest.json",
+      "source_location": "L7",
+      "_origin": "ast",
+      "id": "manifest_host_permissions",
+      "community": 3,
+      "norm_label": "host_permissions"
+    },
+    {
+      "label": "action",
+      "file_type": "code",
+      "source_file": "manifest.json",
+      "source_location": "L11",
+      "_origin": "ast",
+      "id": "manifest_action",
+      "community": 11,
+      "norm_label": "action"
+    },
+    {
+      "label": "default_icon",
+      "file_type": "code",
+      "source_file": "manifest.json",
+      "source_location": "L12",
+      "_origin": "ast",
+      "id": "manifest_action_default_icon",
+      "community": 11,
+      "norm_label": "default_icon"
+    },
+    {
+      "label": "16",
+      "file_type": "code",
+      "source_file": "manifest.json",
+      "source_location": "L13",
+      "_origin": "ast",
+      "id": "manifest_default_icon_16",
+      "community": 11,
+      "norm_label": "16"
+    },
+    {
+      "label": "48",
+      "file_type": "code",
+      "source_file": "manifest.json",
+      "source_location": "L14",
+      "_origin": "ast",
+      "id": "manifest_default_icon_48",
+      "community": 11,
+      "norm_label": "48"
+    },
+    {
+      "label": "128",
+      "file_type": "code",
+      "source_file": "manifest.json",
+      "source_location": "L15",
+      "_origin": "ast",
+      "id": "manifest_default_icon_128",
+      "community": 11,
+      "norm_label": "128"
+    },
+    {
+      "label": "side_panel",
+      "file_type": "code",
+      "source_file": "manifest.json",
+      "source_location": "L18",
+      "_origin": "ast",
+      "id": "manifest_side_panel",
+      "community": 3,
+      "norm_label": "side_panel"
+    },
+    {
+      "label": "default_path",
+      "file_type": "code",
+      "source_file": "manifest.json",
+      "source_location": "L19",
+      "_origin": "ast",
+      "id": "manifest_side_panel_default_path",
+      "community": 3,
+      "norm_label": "default_path"
+    },
+    {
+      "label": "background",
+      "file_type": "code",
+      "source_file": "manifest.json",
+      "source_location": "L21",
+      "_origin": "ast",
+      "id": "manifest_background",
+      "community": 3,
+      "norm_label": "background"
+    },
+    {
+      "label": "service_worker",
+      "file_type": "code",
+      "source_file": "manifest.json",
+      "source_location": "L22",
+      "_origin": "ast",
+      "id": "manifest_background_service_worker",
+      "community": 3,
+      "norm_label": "service_worker"
+    },
+    {
+      "label": "content_scripts",
+      "file_type": "code",
+      "source_file": "manifest.json",
+      "source_location": "L24",
+      "_origin": "ast",
+      "id": "manifest_content_scripts",
+      "community": 3,
+      "norm_label": "content_scripts"
+    },
+    {
+      "label": "icons",
+      "file_type": "code",
+      "source_file": "manifest.json",
+      "source_location": "L34",
+      "_origin": "ast",
+      "id": "manifest_icons",
+      "community": 3,
+      "norm_label": "icons"
+    },
+    {
+      "label": "16",
+      "file_type": "code",
+      "source_file": "manifest.json",
+      "source_location": "L35",
+      "_origin": "ast",
+      "id": "manifest_icons_16",
+      "community": 3,
+      "norm_label": "16"
+    },
+    {
+      "label": "48",
+      "file_type": "code",
+      "source_file": "manifest.json",
+      "source_location": "L36",
+      "_origin": "ast",
+      "id": "manifest_icons_48",
+      "community": 3,
+      "norm_label": "48"
+    },
+    {
+      "label": "128",
+      "file_type": "code",
+      "source_file": "manifest.json",
+      "source_location": "L37",
+      "_origin": "ast",
+      "id": "manifest_icons_128",
+      "community": 3,
+      "norm_label": "128"
+    },
+    {
+      "label": "package.json",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "package",
+      "community": 7,
+      "norm_label": "package.json"
+    },
+    {
+      "label": "name",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L2",
+      "_origin": "ast",
+      "id": "package_name",
+      "community": 7,
+      "norm_label": "name"
+    },
+    {
+      "label": "version",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "package_version",
+      "community": 7,
+      "norm_label": "version"
+    },
+    {
+      "label": "description",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L4",
+      "_origin": "ast",
+      "id": "package_description",
+      "community": 7,
+      "norm_label": "description"
+    },
+    {
+      "label": "scripts",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L5",
+      "_origin": "ast",
+      "id": "package_scripts",
+      "community": 7,
+      "norm_label": "scripts"
+    },
+    {
+      "label": "test",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L6",
+      "_origin": "ast",
+      "id": "package_scripts_test",
+      "community": 7,
+      "norm_label": "test"
+    },
+    {
+      "label": "devDependencies",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "package_devdependencies",
+      "community": 7,
+      "norm_label": "devdependencies"
+    },
+    {
+      "label": "jest",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L9",
+      "_origin": "ast",
+      "id": "package_devdependencies_jest",
+      "community": 7,
+      "norm_label": "jest"
+    },
+    {
+      "label": "jest-environment-jsdom",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L10",
+      "_origin": "ast",
+      "id": "package_devdependencies_jest_environment_jsdom",
+      "community": 7,
+      "norm_label": "jest-environment-jsdom"
+    },
+    {
+      "label": "jest",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L12",
+      "_origin": "ast",
+      "id": "package_jest",
+      "community": 7,
+      "norm_label": "jest"
+    },
+    {
+      "label": "testEnvironment",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L13",
+      "_origin": "ast",
+      "id": "package_jest_testenvironment",
+      "community": 7,
+      "norm_label": "testenvironment"
+    },
+    {
+      "label": "testMatch",
+      "file_type": "code",
+      "source_file": "package.json",
+      "source_location": "L14",
+      "_origin": "ast",
+      "id": "package_jest_testmatch",
+      "community": 7,
+      "norm_label": "testmatch"
+    },
+    {
+      "label": "popup.js",
+      "file_type": "code",
+      "source_file": "popup.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "popup",
+      "community": 9,
+      "norm_label": "popup.js"
+    },
+    {
+      "label": "SERVICES",
+      "file_type": "code",
+      "source_file": "popup.js",
+      "source_location": "L20",
+      "_origin": "ast",
+      "id": "popup_services",
+      "community": 9,
+      "norm_label": "services"
+    },
+    {
+      "label": "elService",
+      "file_type": "code",
+      "source_file": "popup.js",
+      "source_location": "L40",
+      "_origin": "ast",
+      "id": "popup_elservice",
+      "community": 9,
+      "norm_label": "elservice"
+    },
+    {
+      "label": "elStatus",
+      "file_type": "code",
+      "source_file": "popup.js",
+      "source_location": "L41",
+      "_origin": "ast",
+      "id": "popup_elstatus",
+      "community": 9,
+      "norm_label": "elstatus"
+    },
+    {
+      "label": "btnStart",
+      "file_type": "code",
+      "source_file": "popup.js",
+      "source_location": "L42",
+      "_origin": "ast",
+      "id": "popup_btnstart",
+      "community": 9,
+      "norm_label": "btnstart"
+    },
+    {
+      "label": "btnStop",
+      "file_type": "code",
+      "source_file": "popup.js",
+      "source_location": "L43",
+      "_origin": "ast",
+      "id": "popup_btnstop",
+      "community": 9,
+      "norm_label": "btnstop"
+    },
+    {
+      "label": "chkDebug",
+      "file_type": "code",
+      "source_file": "popup.js",
+      "source_location": "L44",
+      "_origin": "ast",
+      "id": "popup_chkdebug",
+      "community": 9,
+      "norm_label": "chkdebug"
+    },
+    {
+      "label": "sendStart()",
+      "file_type": "code",
+      "source_file": "popup.js",
+      "source_location": "L149",
+      "_origin": "ast",
+      "id": "popup_sendstart",
+      "community": 9,
+      "norm_label": "sendstart()"
+    },
+    {
+      "label": "setRunning()",
+      "file_type": "code",
+      "source_file": "popup.js",
+      "source_location": "L160",
+      "_origin": "ast",
+      "id": "popup_setrunning",
+      "community": 9,
+      "norm_label": "setrunning()"
+    },
+    {
+      "label": "setStatus()",
+      "file_type": "code",
+      "source_file": "popup.js",
+      "source_location": "L165",
+      "_origin": "ast",
+      "id": "popup_setstatus",
+      "community": 9,
+      "norm_label": "setstatus()"
+    },
+    {
+      "label": "amazon.js",
+      "file_type": "code",
+      "source_file": "services/amazon.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "services_amazon",
+      "community": 6,
+      "norm_label": "amazon.js"
+    },
+    {
+      "label": "AmazonAdapter",
+      "file_type": "code",
+      "source_file": "services/amazon.js",
+      "source_location": "L14",
+      "_origin": "ast",
+      "id": "services_amazon_amazonadapter",
+      "community": 6,
+      "norm_label": "amazonadapter"
+    },
+    {
+      "label": "disney.js",
+      "file_type": "code",
+      "source_file": "services/disney.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "services_disney",
+      "community": 4,
+      "norm_label": "disney.js"
+    },
+    {
+      "label": "DisneyPlusAdapter",
+      "file_type": "code",
+      "source_file": "services/disney.js",
+      "source_location": "L26",
+      "_origin": "ast",
+      "id": "services_disney_disneyplusadapter",
+      "community": 4,
+      "norm_label": "disneyplusadapter"
+    },
+    {
+      "label": "index.js",
+      "file_type": "code",
+      "source_file": "services/index.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "services_index",
+      "community": 6,
+      "norm_label": "index.js"
+    },
+    {
+      "label": "SERVICE_REGISTRY",
+      "file_type": "code",
+      "source_file": "services/index.js",
+      "source_location": "L15",
+      "_origin": "ast",
+      "id": "services_index_service_registry",
+      "community": 6,
+      "norm_label": "service_registry"
+    },
+    {
+      "label": "getAdapter()",
+      "file_type": "code",
+      "source_file": "services/index.js",
+      "source_location": "L24",
+      "_origin": "ast",
+      "id": "services_index_getadapter",
+      "community": 6,
+      "norm_label": "getadapter()"
+    },
+    {
+      "label": "sidepanel.js",
+      "file_type": "code",
+      "source_file": "sidepanel.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "sidepanel",
+      "community": 8,
+      "norm_label": "sidepanel.js"
+    },
+    {
+      "label": "SERVICES",
+      "file_type": "code",
+      "source_file": "sidepanel.js",
+      "source_location": "L20",
+      "_origin": "ast",
+      "id": "sidepanel_services",
+      "community": 8,
+      "norm_label": "services"
+    },
+    {
+      "label": "elService",
+      "file_type": "code",
+      "source_file": "sidepanel.js",
+      "source_location": "L40",
+      "_origin": "ast",
+      "id": "sidepanel_elservice",
+      "community": 8,
+      "norm_label": "elservice"
+    },
+    {
+      "label": "elStatus",
+      "file_type": "code",
+      "source_file": "sidepanel.js",
+      "source_location": "L41",
+      "_origin": "ast",
+      "id": "sidepanel_elstatus",
+      "community": 8,
+      "norm_label": "elstatus"
+    },
+    {
+      "label": "btnStart",
+      "file_type": "code",
+      "source_file": "sidepanel.js",
+      "source_location": "L42",
+      "_origin": "ast",
+      "id": "sidepanel_btnstart",
+      "community": 8,
+      "norm_label": "btnstart"
+    },
+    {
+      "label": "btnStop",
+      "file_type": "code",
+      "source_file": "sidepanel.js",
+      "source_location": "L43",
+      "_origin": "ast",
+      "id": "sidepanel_btnstop",
+      "community": 8,
+      "norm_label": "btnstop"
+    },
+    {
+      "label": "chkDebug",
+      "file_type": "code",
+      "source_file": "sidepanel.js",
+      "source_location": "L44",
+      "_origin": "ast",
+      "id": "sidepanel_chkdebug",
+      "community": 8,
+      "norm_label": "chkdebug"
+    },
+    {
+      "label": "detectTab()",
+      "file_type": "code",
+      "source_file": "sidepanel.js",
+      "source_location": "L73",
+      "_origin": "ast",
+      "id": "sidepanel_detecttab",
+      "community": 8,
+      "norm_label": "detecttab()"
+    },
+    {
+      "label": "connectToBackground()",
+      "file_type": "code",
+      "source_file": "sidepanel.js",
+      "source_location": "L105",
+      "_origin": "ast",
+      "id": "sidepanel_connecttobackground",
+      "community": 8,
+      "norm_label": "connecttobackground()"
+    },
+    {
+      "label": "sendStart()",
+      "file_type": "code",
+      "source_file": "sidepanel.js",
+      "source_location": "L174",
+      "_origin": "ast",
+      "id": "sidepanel_sendstart",
+      "community": 8,
+      "norm_label": "sendstart()"
+    },
+    {
+      "label": "setRunning()",
+      "file_type": "code",
+      "source_file": "sidepanel.js",
+      "source_location": "L185",
+      "_origin": "ast",
+      "id": "sidepanel_setrunning",
+      "community": 8,
+      "norm_label": "setrunning()"
+    },
+    {
+      "label": "setStatus()",
+      "file_type": "code",
+      "source_file": "sidepanel.js",
+      "source_location": "L190",
+      "_origin": "ast",
+      "id": "sidepanel_setstatus",
+      "community": 8,
+      "norm_label": "setstatus()"
+    },
+    {
+      "label": "amazon.adapter.test.js",
+      "file_type": "code",
+      "source_file": "tests/amazon.adapter.test.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "tests_amazon_adapter_test",
+      "community": 6,
+      "norm_label": "amazon.adapter.test.js"
+    },
+    {
+      "label": "{ AmazonAdapter }",
+      "file_type": "code",
+      "source_file": "tests/amazon.adapter.test.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "tests_amazon_adapter_test_amazonadapter",
+      "community": 6,
+      "norm_label": "{ amazonadapter }"
+    },
+    {
+      "label": "makeDeleteItem()",
+      "file_type": "code",
+      "source_file": "tests/amazon.adapter.test.js",
+      "source_location": "L7",
+      "_origin": "ast",
+      "id": "tests_amazon_adapter_test_makedeleteitem",
+      "community": 6,
+      "norm_label": "makedeleteitem()"
+    },
+    {
+      "label": "content.test.js",
+      "file_type": "code",
+      "source_file": "tests/content.test.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "tests_content_test",
+      "community": 5,
+      "norm_label": "content.test.js"
+    },
+    {
+      "label": "disney.adapter.test.js",
+      "file_type": "code",
+      "source_file": "tests/disney.adapter.test.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "tests_disney_adapter_test",
+      "community": 4,
+      "norm_label": "disney.adapter.test.js"
+    },
+    {
+      "label": "{ DisneyPlusAdapter }",
+      "file_type": "code",
+      "source_file": "tests/disney.adapter.test.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "tests_disney_adapter_test_disneyplusadapter",
+      "community": 4,
+      "norm_label": "{ disneyplusadapter }"
+    },
+    {
+      "label": "makeShelf()",
+      "file_type": "code",
+      "source_file": "tests/disney.adapter.test.js",
+      "source_location": "L7",
+      "_origin": "ast",
+      "id": "tests_disney_adapter_test_makeshelf",
+      "community": 4,
+      "norm_label": "makeshelf()"
+    },
+    {
+      "label": "makeItem()",
+      "file_type": "code",
+      "source_file": "tests/disney.adapter.test.js",
+      "source_location": "L15",
+      "_origin": "ast",
+      "id": "tests_disney_adapter_test_makeitem",
+      "community": 4,
+      "norm_label": "makeitem()"
+    },
+    {
+      "label": "makeModal()",
+      "file_type": "code",
+      "source_file": "tests/disney.adapter.test.js",
+      "source_location": "L26",
+      "_origin": "ast",
+      "id": "tests_disney_adapter_test_makemodal",
+      "community": 4,
+      "norm_label": "makemodal()"
+    },
+    {
+      "label": "makeNextArrow()",
+      "file_type": "code",
+      "source_file": "tests/disney.adapter.test.js",
+      "source_location": "L35",
+      "_origin": "ast",
+      "id": "tests_disney_adapter_test_makenextarrow",
+      "community": 4,
+      "norm_label": "makenextarrow()"
+    },
+    {
+      "label": "setPathname()",
+      "file_type": "code",
+      "source_file": "tests/disney.adapter.test.js",
+      "source_location": "L46",
+      "_origin": "ast",
+      "id": "tests_disney_adapter_test_setpathname",
+      "community": 4,
+      "norm_label": "setpathname()"
+    },
+    {
+      "label": "service-registry.test.js",
+      "file_type": "code",
+      "source_file": "tests/service-registry.test.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "tests_service_registry_test",
+      "community": 6,
+      "norm_label": "service-registry.test.js"
+    },
+    {
+      "label": "{ AmazonAdapter }",
+      "file_type": "code",
+      "source_file": "tests/service-registry.test.js",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "tests_service_registry_test_amazonadapter",
+      "community": 6,
+      "norm_label": "{ amazonadapter }"
+    },
+    {
+      "label": "{ DisneyPlusAdapter }",
+      "file_type": "code",
+      "source_file": "tests/service-registry.test.js",
+      "source_location": "L2",
+      "_origin": "ast",
+      "id": "tests_service_registry_test_disneyplusadapter",
+      "community": 6,
+      "norm_label": "{ disneyplusadapter }"
+    },
+    {
+      "label": "{ getAdapter, SERVICE_REGISTRY }",
+      "file_type": "code",
+      "source_file": "tests/service-registry.test.js",
+      "source_location": "L9",
+      "_origin": "ast",
+      "id": "tests_service_registry_test_getadapter_service_registry",
+      "community": 6,
+      "norm_label": "{ getadapter, service_registry }"
+    },
+    {
+      "label": "setHostname()",
+      "file_type": "code",
+      "source_file": "tests/service-registry.test.js",
+      "source_location": "L39",
+      "_origin": "ast",
+      "id": "tests_service_registry_test_sethostname",
+      "community": 6,
+      "norm_label": "sethostname()"
+    },
+    {
+      "label": "CLAUDE.md",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "claude",
+      "community": 1,
+      "norm_label": "claude.md"
+    },
+    {
+      "label": "Clear Streaming History \u2014 Claude Instructions",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "claude_clear_streaming_history_claude_instructions",
+      "community": 1,
+      "norm_label": "clear streaming history \u2014 claude instructions"
+    },
+    {
+      "label": "Architecture",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L7",
+      "_origin": "ast",
+      "id": "claude_architecture",
+      "community": 1,
+      "norm_label": "architecture"
+    },
+    {
+      "label": "Service Adapter Interface",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L21",
+      "_origin": "ast",
+      "id": "claude_service_adapter_interface",
+      "community": 1,
+      "norm_label": "service adapter interface"
+    },
+    {
+      "label": "JavaScript Conventions",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L34",
+      "_origin": "ast",
+      "id": "claude_javascript_conventions",
+      "community": 1,
+      "norm_label": "javascript conventions"
+    },
+    {
+      "label": "Style",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L36",
+      "_origin": "ast",
+      "id": "claude_style",
+      "community": 1,
+      "norm_label": "style"
+    },
+    {
+      "label": "Browser Extension Specifics",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L44",
+      "_origin": "ast",
+      "id": "claude_browser_extension_specifics",
+      "community": 1,
+      "norm_label": "browser extension specifics"
+    },
+    {
+      "label": "Error Handling",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L57",
+      "_origin": "ast",
+      "id": "claude_error_handling",
+      "community": 1,
+      "norm_label": "error handling"
+    },
+    {
+      "label": "Comments",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L63",
+      "_origin": "ast",
+      "id": "claude_comments",
+      "community": 1,
+      "norm_label": "comments"
+    },
+    {
+      "label": "Test Conventions",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L68",
+      "_origin": "ast",
+      "id": "claude_test_conventions",
+      "community": 0,
+      "norm_label": "test conventions"
+    },
+    {
+      "label": "Framework",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L70",
+      "_origin": "ast",
+      "id": "claude_framework",
+      "community": 0,
+      "norm_label": "framework"
+    },
+    {
+      "label": "Structure",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L76",
+      "_origin": "ast",
+      "id": "claude_structure",
+      "community": 0,
+      "norm_label": "structure"
+    },
+    {
+      "label": "Browser Extension Testing Approach",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L82",
+      "_origin": "ast",
+      "id": "claude_browser_extension_testing_approach",
+      "community": 0,
+      "norm_label": "browser extension testing approach"
+    },
+    {
+      "label": "DOM Testing",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L93",
+      "_origin": "ast",
+      "id": "claude_dom_testing",
+      "community": 0,
+      "norm_label": "dom testing"
+    },
+    {
+      "label": "`window.location` Mocking",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L98",
+      "_origin": "ast",
+      "id": "claude_window_location_mocking",
+      "community": 0,
+      "norm_label": "`window.location` mocking"
+    },
+    {
+      "label": "Chrome API Mocking",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L110",
+      "_origin": "ast",
+      "id": "claude_chrome_api_mocking",
+      "community": 0,
+      "norm_label": "chrome api mocking"
+    },
+    {
+      "label": "Coverage Expectations",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L121",
+      "_origin": "ast",
+      "id": "claude_coverage_expectations",
+      "community": 0,
+      "norm_label": "coverage expectations"
+    },
+    {
+      "label": "Anti-Patterns",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L127",
+      "_origin": "ast",
+      "id": "claude_anti_patterns",
+      "community": 0,
+      "norm_label": "anti-patterns"
+    },
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "readme",
+      "community": 2,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "Clear Streaming History",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "readme_clear_streaming_history",
+      "community": 2,
+      "norm_label": "clear streaming history"
+    },
+    {
+      "label": "Installation",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L9",
+      "_origin": "ast",
+      "id": "readme_installation",
+      "community": 2,
+      "norm_label": "installation"
+    },
+    {
+      "label": "Usage",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L21",
+      "_origin": "ast",
+      "id": "readme_usage",
+      "community": 2,
+      "norm_label": "usage"
+    },
+    {
+      "label": "Per-service pages targeted",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L31",
+      "_origin": "ast",
+      "id": "readme_per_service_pages_targeted",
+      "community": 2,
+      "norm_label": "per-service pages targeted"
+    },
+    {
+      "label": "Updating the Extension",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L40",
+      "_origin": "ast",
+      "id": "readme_updating_the_extension",
+      "community": 2,
+      "norm_label": "updating the extension"
+    },
+    {
+      "label": "Development",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L50",
+      "_origin": "ast",
+      "id": "readme_development",
+      "community": 2,
+      "norm_label": "development"
+    },
+    {
+      "label": "Prerequisites",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L52",
+      "_origin": "ast",
+      "id": "readme_prerequisites",
+      "community": 2,
+      "norm_label": "prerequisites"
+    },
+    {
+      "label": "Install dependencies",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L57",
+      "_origin": "ast",
+      "id": "readme_install_dependencies",
+      "community": 2,
+      "norm_label": "install dependencies"
+    },
+    {
+      "label": "Run tests",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L63",
+      "_origin": "ast",
+      "id": "readme_run_tests",
+      "community": 2,
+      "norm_label": "run tests"
+    },
+    {
+      "label": "Debugging",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L71",
+      "_origin": "ast",
+      "id": "readme_debugging",
+      "community": 2,
+      "norm_label": "debugging"
+    },
+    {
+      "label": "Project Structure",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L81",
+      "_origin": "ast",
+      "id": "readme_project_structure",
+      "community": 2,
+      "norm_label": "project structure"
+    },
+    {
+      "label": "Adding a New Streaming Service",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L108",
+      "_origin": "ast",
+      "id": "readme_adding_a_new_streaming_service",
+      "community": 2,
+      "norm_label": "adding a new streaming service"
+    },
+    {
+      "label": "Pattern A \u2014 Direct button (like Amazon)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L112",
+      "_origin": "ast",
+      "id": "readme_pattern_a_direct_button_like_amazon",
+      "community": 2,
+      "norm_label": "pattern a \u2014 direct button (like amazon)"
+    },
+    {
+      "label": "Pattern B \u2014 Multi-step with confirmation (like Disney+)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L134",
+      "_origin": "ast",
+      "id": "readme_pattern_b_multi_step_with_confirmation_like_disney",
+      "community": 2,
+      "norm_label": "pattern b \u2014 multi-step with confirmation (like disney+)"
+    },
+    {
+      "label": "Steps to add any service",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L164",
+      "_origin": "ast",
+      "id": "readme_steps_to_add_any_service",
+      "community": 2,
+      "norm_label": "steps to add any service"
+    },
+    {
+      "label": "Architecture Notes",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L213",
+      "_origin": "ast",
+      "id": "readme_architecture_notes",
+      "community": 2,
+      "norm_label": "architecture notes"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "background.js",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "background",
+      "target": "background_navigateandstart",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "content.js",
+      "source_location": "L95",
+      "weight": 1.0,
+      "source": "content",
+      "target": "content_sendstatus",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "content.js",
+      "source_location": "L101",
+      "weight": 1.0,
+      "source": "content",
+      "target": "content_sleep",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "content.js",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "content",
+      "target": "content_startclearing",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "content.js",
+      "source_location": "L49",
+      "weight": 1.0,
+      "source": "content_startclearing",
+      "target": "content_sendstatus",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "content.js",
+      "source_location": "L88",
+      "weight": 1.0,
+      "source": "content_startclearing",
+      "target": "content_sleep",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "content.js",
+      "source_location": "L46",
+      "weight": 1.0,
+      "source": "content_startclearing",
+      "target": "logger_log"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "content.js",
+      "source_location": "L45",
+      "weight": 1.0,
+      "source": "content_startclearing",
+      "target": "services_index_getadapter"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "logger.js",
+      "source_location": "L32",
+      "weight": 1.0,
+      "source": "logger",
+      "target": "logger_log",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "logger.js",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "logger",
+      "target": "logger_warn",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "manifest.json",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "manifest",
+      "target": "manifest_action",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "manifest.json",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "manifest",
+      "target": "manifest_background",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "manifest.json",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "manifest",
+      "target": "manifest_content_scripts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "manifest.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "manifest",
+      "target": "manifest_description",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "manifest.json",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "manifest",
+      "target": "manifest_host_permissions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "manifest.json",
+      "source_location": "L34",
+      "weight": 1.0,
+      "source": "manifest",
+      "target": "manifest_icons",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "manifest.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "manifest",
+      "target": "manifest_manifest_version",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "manifest.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "manifest",
+      "target": "manifest_name",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "manifest.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "manifest",
+      "target": "manifest_permissions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "manifest.json",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "manifest",
+      "target": "manifest_side_panel",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "manifest.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "manifest",
+      "target": "manifest_version",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "manifest.json",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "manifest_action",
+      "target": "manifest_action_default_icon",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "manifest.json",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "manifest_action_default_icon",
+      "target": "manifest_default_icon_128",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "manifest.json",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "manifest_action_default_icon",
+      "target": "manifest_default_icon_16",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "manifest.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "manifest_action_default_icon",
+      "target": "manifest_default_icon_48",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "manifest.json",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "manifest_side_panel",
+      "target": "manifest_side_panel_default_path",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "manifest.json",
+      "source_location": "L22",
+      "weight": 1.0,
+      "source": "manifest_background",
+      "target": "manifest_background_service_worker",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "manifest.json",
+      "source_location": "L37",
+      "weight": 1.0,
+      "source": "manifest_icons",
+      "target": "manifest_icons_128",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "manifest.json",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "manifest_icons",
+      "target": "manifest_icons_16",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "manifest.json",
+      "source_location": "L36",
+      "weight": 1.0,
+      "source": "manifest_icons",
+      "target": "manifest_icons_48",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "package",
+      "target": "package_description",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "package",
+      "target": "package_devdependencies",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "package",
+      "target": "package_jest",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "package",
+      "target": "package_name",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "package",
+      "target": "package_scripts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "package",
+      "target": "package_version",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "package_scripts",
+      "target": "package_scripts_test",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "package_devdependencies",
+      "target": "package_devdependencies_jest",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "package_devdependencies",
+      "target": "package_devdependencies_jest_environment_jsdom",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "package_jest",
+      "target": "package_jest_testenvironment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "package.json",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "package_jest",
+      "target": "package_jest_testmatch",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "popup.js",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "popup",
+      "target": "popup_btnstart",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "popup.js",
+      "source_location": "L43",
+      "weight": 1.0,
+      "source": "popup",
+      "target": "popup_btnstop",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "popup.js",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "popup",
+      "target": "popup_chkdebug",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "popup.js",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "popup",
+      "target": "popup_elservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "popup.js",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "popup",
+      "target": "popup_elstatus",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "popup.js",
+      "source_location": "L149",
+      "weight": 1.0,
+      "source": "popup",
+      "target": "popup_sendstart",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "popup.js",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "popup",
+      "target": "popup_services",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "popup.js",
+      "source_location": "L160",
+      "weight": 1.0,
+      "source": "popup",
+      "target": "popup_setrunning",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "popup.js",
+      "source_location": "L165",
+      "weight": 1.0,
+      "source": "popup",
+      "target": "popup_setstatus",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "popup.js",
+      "source_location": "L150",
+      "weight": 1.0,
+      "source": "popup_sendstart",
+      "target": "popup_setrunning",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "popup.js",
+      "source_location": "L151",
+      "weight": 1.0,
+      "source": "popup_sendstart",
+      "target": "popup_setstatus",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "services/amazon.js",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "services_amazon",
+      "target": "services_amazon_amazonadapter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/amazon.adapter.test.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "tests_amazon_adapter_test",
+      "target": "services_amazon",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/service-registry.test.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "tests_service_registry_test",
+      "target": "services_amazon",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/amazon.adapter.test.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "tests_amazon_adapter_test",
+      "target": "services_amazon_amazonadapter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/service-registry.test.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "tests_service_registry_test",
+      "target": "services_amazon_amazonadapter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "services/disney.js",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "services_disney",
+      "target": "services_disney_disneyplusadapter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/disney.adapter.test.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "tests_disney_adapter_test",
+      "target": "services_disney",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/service-registry.test.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "tests_service_registry_test",
+      "target": "services_disney",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/disney.adapter.test.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "tests_disney_adapter_test",
+      "target": "services_disney_disneyplusadapter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/service-registry.test.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "tests_service_registry_test",
+      "target": "services_disney_disneyplusadapter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "services/index.js",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "services_index",
+      "target": "services_index_getadapter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "services/index.js",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "services_index",
+      "target": "services_index_service_registry",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/service-registry.test.js",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "tests_service_registry_test",
+      "target": "services_index",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/service-registry.test.js",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "tests_service_registry_test",
+      "target": "services_index_service_registry",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/service-registry.test.js",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "tests_service_registry_test",
+      "target": "services_index_getadapter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "sidepanel.js",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "sidepanel",
+      "target": "sidepanel_btnstart",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "sidepanel.js",
+      "source_location": "L43",
+      "weight": 1.0,
+      "source": "sidepanel",
+      "target": "sidepanel_btnstop",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "sidepanel.js",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "sidepanel",
+      "target": "sidepanel_chkdebug",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "sidepanel.js",
+      "source_location": "L105",
+      "weight": 1.0,
+      "source": "sidepanel",
+      "target": "sidepanel_connecttobackground",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "sidepanel.js",
+      "source_location": "L73",
+      "weight": 1.0,
+      "source": "sidepanel",
+      "target": "sidepanel_detecttab",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "sidepanel.js",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "sidepanel",
+      "target": "sidepanel_elservice",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "sidepanel.js",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "sidepanel",
+      "target": "sidepanel_elstatus",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "sidepanel.js",
+      "source_location": "L174",
+      "weight": 1.0,
+      "source": "sidepanel",
+      "target": "sidepanel_sendstart",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "sidepanel.js",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "sidepanel",
+      "target": "sidepanel_services",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "sidepanel.js",
+      "source_location": "L185",
+      "weight": 1.0,
+      "source": "sidepanel",
+      "target": "sidepanel_setrunning",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "sidepanel.js",
+      "source_location": "L190",
+      "weight": 1.0,
+      "source": "sidepanel",
+      "target": "sidepanel_setstatus",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "sidepanel.js",
+      "source_location": "L84",
+      "weight": 1.0,
+      "source": "sidepanel_detecttab",
+      "target": "sidepanel_setstatus",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "sidepanel.js",
+      "source_location": "L175",
+      "weight": 1.0,
+      "source": "sidepanel_sendstart",
+      "target": "sidepanel_setrunning",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "sidepanel.js",
+      "source_location": "L176",
+      "weight": 1.0,
+      "source": "sidepanel_sendstart",
+      "target": "sidepanel_setstatus",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/amazon.adapter.test.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "tests_amazon_adapter_test",
+      "target": "tests_amazon_adapter_test_amazonadapter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/amazon.adapter.test.js",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "tests_amazon_adapter_test",
+      "target": "tests_amazon_adapter_test_makedeleteitem",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/disney.adapter.test.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "tests_disney_adapter_test",
+      "target": "tests_disney_adapter_test_disneyplusadapter"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/disney.adapter.test.js",
+      "source_location": "L15",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "tests_disney_adapter_test",
+      "target": "tests_disney_adapter_test_makeitem"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/disney.adapter.test.js",
+      "source_location": "L26",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "tests_disney_adapter_test",
+      "target": "tests_disney_adapter_test_makemodal"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/disney.adapter.test.js",
+      "source_location": "L35",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "tests_disney_adapter_test",
+      "target": "tests_disney_adapter_test_makenextarrow"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/disney.adapter.test.js",
+      "source_location": "L7",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "tests_disney_adapter_test",
+      "target": "tests_disney_adapter_test_makeshelf"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/disney.adapter.test.js",
+      "source_location": "L46",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "tests_disney_adapter_test",
+      "target": "tests_disney_adapter_test_setpathname"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/service-registry.test.js",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "tests_service_registry_test",
+      "target": "tests_service_registry_test_amazonadapter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/service-registry.test.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "tests_service_registry_test",
+      "target": "tests_service_registry_test_disneyplusadapter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/service-registry.test.js",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "tests_service_registry_test",
+      "target": "tests_service_registry_test_getadapter_service_registry",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/service-registry.test.js",
+      "source_location": "L39",
+      "weight": 1.0,
+      "source": "tests_service_registry_test",
+      "target": "tests_service_registry_test_sethostname",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claude",
+      "target": "claude_clear_streaming_history_claude_instructions"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L7",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claude_clear_streaming_history_claude_instructions",
+      "target": "claude_architecture"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L34",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claude_clear_streaming_history_claude_instructions",
+      "target": "claude_javascript_conventions"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L21",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claude_clear_streaming_history_claude_instructions",
+      "target": "claude_service_adapter_interface"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L68",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claude_clear_streaming_history_claude_instructions",
+      "target": "claude_test_conventions"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L44",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claude_javascript_conventions",
+      "target": "claude_browser_extension_specifics"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L63",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claude_javascript_conventions",
+      "target": "claude_comments"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L57",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claude_javascript_conventions",
+      "target": "claude_error_handling"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L36",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claude_javascript_conventions",
+      "target": "claude_style"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L127",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claude_test_conventions",
+      "target": "claude_anti_patterns"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L82",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claude_test_conventions",
+      "target": "claude_browser_extension_testing_approach"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L121",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claude_test_conventions",
+      "target": "claude_coverage_expectations"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L70",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claude_test_conventions",
+      "target": "claude_framework"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L76",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claude_test_conventions",
+      "target": "claude_structure"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L110",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claude_browser_extension_testing_approach",
+      "target": "claude_chrome_api_mocking"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L93",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claude_browser_extension_testing_approach",
+      "target": "claude_dom_testing"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
+      "source_location": "L98",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "claude_browser_extension_testing_approach",
+      "target": "claude_window_location_mocking"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "readme",
+      "target": "readme_clear_streaming_history",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L108",
+      "weight": 1.0,
+      "source": "readme_clear_streaming_history",
+      "target": "readme_adding_a_new_streaming_service",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L213",
+      "weight": 1.0,
+      "source": "readme_clear_streaming_history",
+      "target": "readme_architecture_notes",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L50",
+      "weight": 1.0,
+      "source": "readme_clear_streaming_history",
+      "target": "readme_development",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "readme_clear_streaming_history",
+      "target": "readme_installation",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L81",
+      "weight": 1.0,
+      "source": "readme_clear_streaming_history",
+      "target": "readme_project_structure",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "readme_clear_streaming_history",
+      "target": "readme_updating_the_extension",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "readme_clear_streaming_history",
+      "target": "readme_usage",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L31",
+      "weight": 1.0,
+      "source": "readme_usage",
+      "target": "readme_per_service_pages_targeted",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L71",
+      "weight": 1.0,
+      "source": "readme_development",
+      "target": "readme_debugging",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L57",
+      "weight": 1.0,
+      "source": "readme_development",
+      "target": "readme_install_dependencies",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "readme_development",
+      "target": "readme_prerequisites",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L63",
+      "weight": 1.0,
+      "source": "readme_development",
+      "target": "readme_run_tests",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L112",
+      "weight": 1.0,
+      "source": "readme_adding_a_new_streaming_service",
+      "target": "readme_pattern_a_direct_button_like_amazon",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L134",
+      "weight": 1.0,
+      "source": "readme_adding_a_new_streaming_service",
+      "target": "readme_pattern_b_multi_step_with_confirmation_like_disney",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L164",
+      "weight": 1.0,
+      "source": "readme_adding_a_new_streaming_service",
+      "target": "readme_steps_to_add_any_service",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": []
+}

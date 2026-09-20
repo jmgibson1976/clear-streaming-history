@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Clear Streaming History</title>
+    <style>
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        padding: 16px;
+        background: #1a1a2e;
+        color: #e0e0e0;
+      }
+
+      h1 {
+        font-size: 14px;
+        font-weight: 600;
+        margin-bottom: 12px;
+        color: #ffffff;
+        letter-spacing: 0.3px;
+      }
+
+      #service-name {
+        font-size: 12px;
+        color: #a0a0b0;
+        margin-bottom: 16px;
+      }
+
+      #status-box {
+        background: #16213e;
+        border-radius: 6px;
+        padding: 10px 12px;
+        font-size: 12px;
+        min-height: 40px;
+        margin-bottom: 14px;
+        color: #c0c0d0;
+        line-height: 1.5;
+      }
+
+      #status-box.error {
+        color: #ff6b6b;
+      }
+
+      #status-box.done {
+        color: #6bffb8;
+      }
+
+      .btn-row {
+        display: flex;
+        gap: 8px;
+      }
+
+      button {
+        flex: 1;
+        padding: 9px 12px;
+        border: none;
+        border-radius: 6px;
+        font-size: 13px;
+        font-weight: 600;
+        cursor: pointer;
+        transition: opacity 0.15s;
+      }
+
+      button:disabled {
+        opacity: 0.4;
+        cursor: not-allowed;
+      }
+
+      #btn-start {
+        background: #e8871a;
+        color: #fff;
+      }
+
+      #btn-stop {
+        background: #444466;
+        color: #fff;
+      }
+
+      #btn-start:hover:not(:disabled) {
+        opacity: 0.88;
+      }
+
+      #btn-stop:hover:not(:disabled) {
+        opacity: 0.88;
+      }
+      #debug-row {
+        display: flex;
+        align-items: center;
+        gap: 7px;
+        margin-top: 12px;
+        font-size: 11px;
+        color: #707090;
+        cursor: pointer;
+      }
+
+      #debug-row input[type="checkbox"] {
+        accent-color: #e8871a;
+        cursor: pointer;
+        width: 13px;
+        height: 13px;
+        flex: none;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Clear Streaming History</h1>
+    <div id="service-name">Detecting service…</div>
+    <div id="status-box">Ready.</div>
+    <div class="btn-row">
+      <button id="btn-start">Clear History</button>
+      <button id="btn-stop" disabled>Stop</button>
+    </div>
+    <label id="debug-row">
+      <input type="checkbox" id="chk-debug" />
+      Debug logging (DevTools Console)
+    </label>
+    <script src="sidepanel.js"></script>
+  </body>
+</html>
